@@ -24,7 +24,9 @@ As you walk, you tap a few buttons in about 5 seconds per spot: ground surface (
 
 ## Code
 
-{% embed https://github.com/YOUR_GITHUB_USERNAME/MicroClime %}
+{% embed https://github.com/SujalTripathi/MicroClime %}
+
+GitHub Repository: [https://github.com/SujalTripathi/MicroClime](https://github.com/SujalTripathi/MicroClime)
 
 ## How I Built It
 
